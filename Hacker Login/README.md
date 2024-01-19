@@ -3,7 +3,7 @@
 
 <a href="https://hacker-login-9963a6.netlify.app/" target="_blank"> Mirala / Look at her </a>
 
-<strong> En Español </strong> <br>
+<h2> En Español </h2> <br>
 
 <strong> Descripción </strong><br>
 HackLogin es un proyecto de diseño de interfaz de usuario para un formulario de inicio de sesión con un estilo inspirado en la cultura hacker. La aplicación proporciona una experiencia visual única y atractiva mientras mantiene la funcionalidad esencial de autenticación de usuarios. <br>
@@ -23,7 +23,7 @@ Abre el archivo index.html en tu navegador.<br>
 Abre index.html en tu navegador.
 Experimenta con la interfaz de inicio de sesión hacker.<br>
 
-<strong> In English </strong> <br>
+<h2> In English </h2> <br>
 
 <strong> Description </strong><br>
 HackLogin is a UI design project for a login form with a style inspired by hacker culture. The app provides a unique and engaging visual experience while maintaining essential user authentication functionality.<br>
