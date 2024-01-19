@@ -46,3 +46,7 @@ Experiment with the hacker login interface.<br>
 <strong> Capturas de Pantalla / Screenshots </strong> <br
 
 ![image](https://github.com/MauroGarcia-97/Login/assets/150713356/89462c01-18b7-4eba-b6b4-ee5ae5f8d61f)
+
+<strong> Licencia </strong>
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE.md para más detalles.
